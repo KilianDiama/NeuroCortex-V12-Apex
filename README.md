@@ -1,3 +1,5 @@
+⚡ Engineered by Kiliandiama | The Diama Protocol [10/10] | All rights reserved.
+
 🧠 NeuroCortex V12 Apex
 
 NeuroCortex V12 Apex is a cognitive neuro-dynamic simulation system inspired by biological processes, thermodynamics, and adaptive behavior models.
